@@ -1,0 +1,11 @@
+C:\Users\mydad\OneDrive\Desktop\ARM-Course\ARM-Course\src\ARM-Solution\ARM.Core\bin\Debug\net8.0\ARM.Core.deps.json
+C:\Users\mydad\OneDrive\Desktop\ARM-Course\ARM-Course\src\ARM-Solution\ARM.Core\bin\Debug\net8.0\ARM.Core.dll
+C:\Users\mydad\OneDrive\Desktop\ARM-Course\ARM-Course\src\ARM-Solution\ARM.Core\bin\Debug\net8.0\ARM.Core.pdb
+C:\Users\mydad\OneDrive\Desktop\ARM-Course\ARM-Course\src\ARM-Solution\ARM.Core\obj\Debug\net8.0\ARM.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mydad\OneDrive\Desktop\ARM-Course\ARM-Course\src\ARM-Solution\ARM.Core\obj\Debug\net8.0\ARM.Core.AssemblyInfoInputs.cache
+C:\Users\mydad\OneDrive\Desktop\ARM-Course\ARM-Course\src\ARM-Solution\ARM.Core\obj\Debug\net8.0\ARM.Core.AssemblyInfo.cs
+C:\Users\mydad\OneDrive\Desktop\ARM-Course\ARM-Course\src\ARM-Solution\ARM.Core\obj\Debug\net8.0\ARM.Core.csproj.CoreCompileInputs.cache
+C:\Users\mydad\OneDrive\Desktop\ARM-Course\ARM-Course\src\ARM-Solution\ARM.Core\obj\Debug\net8.0\ARM.Core.dll
+C:\Users\mydad\OneDrive\Desktop\ARM-Course\ARM-Course\src\ARM-Solution\ARM.Core\obj\Debug\net8.0\refint\ARM.Core.dll
+C:\Users\mydad\OneDrive\Desktop\ARM-Course\ARM-Course\src\ARM-Solution\ARM.Core\obj\Debug\net8.0\ARM.Core.pdb
+C:\Users\mydad\OneDrive\Desktop\ARM-Course\ARM-Course\src\ARM-Solution\ARM.Core\obj\Debug\net8.0\ref\ARM.Core.dll
