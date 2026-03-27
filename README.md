@@ -23,7 +23,7 @@
 
 | Занятие | Тема | Материалы |
 |---------|------|-----------|
-| 1 | Введение в АРМ. Архитектура | [Лекция](./docs/lectures/lecture_01_intro.md) / [Презентация](./docs/slides/lecture_01.pdf) |
+| 1 | Введение в АРМ. Архитектура | [Лекция](./docs/lectures/lecture_01.docx) / [Презентация](./docs/slides/lecture_01.pdf) |
 | 2 | MVVM: Команды и ViewModelLocator | ... |
 | 3 | Навигация и сервисы. Регионы | ... |
 | 4 | База данных и Entity Framework Core | ... |
